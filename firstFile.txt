@@ -1,2 +1,3 @@
 Original contents of firstFile
 new stuff from userA
+new stuff by B
